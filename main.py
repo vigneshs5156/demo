@@ -4,3 +4,6 @@ import numpy as np
 
 def greet():
     return "Hi, welcome here"
+
+def add(a,b):
+    return a + b
